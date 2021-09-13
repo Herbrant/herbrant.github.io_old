@@ -129,4 +129,10 @@ div.skills-heading{
         display: inline;
     }
 
+    @media screen and (max-width: 600px) {
+      .qrcode {
+        display: none;
+      }
+    }
+
     

@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Arch Linux: una distribuzione semplice",
+		"company": "Saturday Morning Snippets 2021, Università degli Studi di Catania",
+        "description":"[Slides](/files/arch-linux.pdf)",
+		"date": "2020"
+    },
+	{
+        "name":"Uso e diffusione dei Social Media pubblici",
+		"company": "Catania's City Hall",
+        "description": "with [Stefano Borzì](http://linkedin.com/in/stefanoborzi) and [Generazione Ypsilon](https://generazioneypsilon.it)",
+		"slides": "[Slides](https://docs.google.com/presentation/d/1UCCJ6_Z-gR0qe9m7zBhhtR6MUClM9bdZWbtL_6lc2j8/edit?usp=sharing)",
+		"date": "2019"
+    },
+	{
+        "name":"Legality Project",
+		"company": "Catania's City Hall",
+		"description": "with [Stefano Borzì](http://linkedin.com/in/stefanoborzi) and [Generazione Ypsilon](https://generazioneypsilon.it)",
+        "slides": "[Slides](https://docs.google.com/presentation/d/15E3agQiWl5YFtt071DfO_kcbIeVUHg6kgu-zbHs4yFg/edit?usp=sharing)",
+		"date": "2019"
+    }
+
+
+]

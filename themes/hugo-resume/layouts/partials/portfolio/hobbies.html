@@ -1,0 +1,23 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="hobbies">
+	<div class="my-auto" id="hobbies-content">
+	  <h2 class="mb-5">Hobbies</h2>
+	  <div class="container">
+	  <div class="row">
+
+	  {{ range .Site.Data.hobbies	 }}
+			  <div class="col-4">
+				{{ with .image }}
+				  <img src="{{ . }}" style="width: 20rem; height: 20rem;"/>
+			    {{end}}
+			    <h3 class="mb-0">{{ .name }}</h3>
+			  
+			    <p>{{ .description }}</p>
+			  </div>
+	  {{ end }}
+		</div>
+		</div>
+	</div>
+	</div>
+  
+  </section>
+  

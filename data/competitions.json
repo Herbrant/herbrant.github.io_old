@@ -1,0 +1,18 @@
+[
+    {
+        "name":"HSCTF 7",
+        "description":"HSCTF 7 attendance (Placement: 80th).",
+		"date": "2020"
+    },
+	{
+        "name":"Reply Code Challenge",
+        "description":"Reply code challenge 2020 attendance (Placement: 265th).",
+		"date": "2020"
+    },
+	{
+		"name": "Google HashCode",
+		"description": "Google HashCode 2020 attendance (Placement: 1230th).",
+		"date": "2020"
+	}
+
+]

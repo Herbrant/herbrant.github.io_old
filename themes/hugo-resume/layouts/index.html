@@ -1,0 +1,45 @@
+{{ define "main" }}
+   {{ partial "about.html" .}}
+   {{ if .Site.Params.showEducation }}
+       {{ partial "portfolio/education.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showSkills }}
+       {{ partial "portfolio/skills.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showProjects }}
+      {{ with .Site.GetPage "section" "projects/creations" }}
+         {{ .Scratch.Set "sectionId" "projects" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showOpenSource }}
+      {{ with .Site.GetPage "section" "projects/contributions" }}
+         {{ .Scratch.Set "sectionId" "open" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showPublications }}
+      {{ with .Site.GetPage "section" "publications" }}
+         {{ .Scratch.Set "sectionId" (default "Publications" .Site.Params.publicationsAlternateName) }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showExperience }}
+       {{ partial "portfolio/experience.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showPresentations }}
+       {{ partial "portfolio/presentations.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showCompetitions }}
+       {{ partial "portfolio/competitions.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showBlog }}
+      {{ with .Site.GetPage "section" "blog" }}
+         {{ .Scratch.Set "sectionId" "blog" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showHobbies }}
+       {{ partial "portfolio/hobbies.html" . }}
+   {{ end }}
+{{ end }}

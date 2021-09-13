@@ -1,0 +1,61 @@
+title = "Davide Carnemolla"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Catania, IT"
+email = "herbrant@protonmail.com"
+favicon = "/favicon.ico"
+firstName = "Davide"
+lastName = "Carnemolla"
+nickName = "@Herbrant"
+profileImage = "img/profile.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+showCertifications = false
+showProjects = false
+showOpenSource = false
+showHobbies = true
+showCompetitions = true
+showPresentations = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://github.com/Herbrant/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://t.me/Herbrant"
+name = "Telegram"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/davide-carnemolla/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://www.instagram.com/herbrant.sh/"
+name = "Instagram"
+
+[[params.handles]]
+link = "https://www.facebook.com/Davide.Carnemolla2/"
+name = "Facebook"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

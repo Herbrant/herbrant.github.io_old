@@ -1,0 +1,28 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","RESTful APIs"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "C/C++","Python", "Bash", "Git","Linux","PHP", "Laravel", "Go"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "GitHub","NGINX","MySQL","Wordpress", "Hugo"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"SQL","icon":"database"},
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker"},
+          {"name":"Google Cloud"},
+          {"name":"Linux"}
+      ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Music",
+        "description": "I play guitar and I study trumpet (but I'm not so good). I also spend a lot of time listening to music, especially Jazz, Fusion and old Italian Songwriters.",
+		"image": "/img/music.svg"
+	},
+	{
+        "name":"Cooking",
+        "description":"I like cooking, especially meals from my homeland: Sicily. My grandmother and my mother introduced me to this world when I was a child.",
+		"image": "/img/cooking.svg"
+	},
+	{
+        "name":"Open Source Promotion",
+        "description":"I like sharing and promoting the importance and utility of Open Source everyday with friends and colleagues and also through some events in my city.",
+		"image": "/img/open-source.svg"
+    }
+]

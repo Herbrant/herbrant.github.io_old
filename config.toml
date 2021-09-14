@@ -9,7 +9,7 @@ enableGitInfo = false
 [params]
 address = "Catania, IT"
 email = "herbrant@protonmail.com"
-favicon = "/img/favicon.ico"
+favicon = "/favicon.ico"
 firstName = "Davide"
 lastName = "Carnemolla"
 nickName = "@Herbrant"

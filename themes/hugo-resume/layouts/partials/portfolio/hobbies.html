@@ -3,11 +3,10 @@
 	  <h2 class="mb-5">Hobbies</h2>
 	  <div class="container">
 	  <div class="row">
-
 	  {{ range .Site.Data.hobbies	 }}
-			  <div class="col-4">
+			  <div class="col-sm-4 me-2 text-center">
 				{{ with .image }}
-				  <img src="{{ . }}" style="width: 20rem; height: 20rem;"/>
+				  <img class="img-fluid" src="{{ . }}" style="max-height: 203.93px;"/>
 			    {{end}}
 			    <h3 class="mb-0">{{ .name }}</h3>
 			  

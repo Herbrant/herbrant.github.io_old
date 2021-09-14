@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","RESTful APIs"]
+      "skills":[ "IP Networking", "Firewalls","Load Balancing","RESTful APIs"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "C/C++","Python", "Bash", "Git","Linux","PHP", "Laravel", "Go"]

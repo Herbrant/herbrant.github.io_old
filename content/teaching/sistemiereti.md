@@ -7,6 +7,7 @@ weight: 400
 Questa è la pagina del corso di Sistemi e Reti per l'Istituto Polivalente Valdisavoia di Catania.
 
 ### Informazioni Generali
+La disciplina Sistemi e Reti vuole fornire gli strumenti necessari alla progettazione e alla gestione di sistemi di elaborazione dati e reti di calcolatori.
 
 ### Obiettivi
 **Conoscenze**

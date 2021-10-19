@@ -25,6 +25,7 @@ showCertifications = false
 showHobbies = true
 showCompetitions = true
 showPresentations = true
+showTeaching = true
 
 [params.google]
 

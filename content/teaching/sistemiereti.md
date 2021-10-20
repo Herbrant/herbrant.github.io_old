@@ -32,9 +32,10 @@ La disciplina Sistemi e Reti vuole fornire gli strumenti necessari alla progetta
 - Utilizzare il lessico e la terminologia tecnica di settore anche in lingua inglese
 
 ### Programma (provvisorio)
-- Introduzione alla comunicazione
 - Struttura dell'elaboratore
 - Il microprocessore
+- Introduzione ai sistemi operativi
+- Introduzione alla comunicazione
 - Basi della comunicazione in rete
 - Architettura TCP/IP
 - Reti locali e metropolitane

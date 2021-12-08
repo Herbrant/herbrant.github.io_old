@@ -2,7 +2,6 @@
 title: "Sistemi e Reti"
 school: "Istituto Paritario Valdisavoia, Catania"
 image: "/img/sistemi_e_reti.svg"
-weight: 400
 ---
 Questa è la pagina del corso di Sistemi e Reti per l'Istituto Polivalente Valdisavoia di Catania.
 

@@ -9,11 +9,11 @@ Questa è la pagina del tutorato di Informatica 2 del Corso di Laurea Triennale 
 Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Dipartimento di Matematica e Informatica e, per ulteriori chiarimenti, contattare il docente del corso.
 
 ### Programma
-- Lettura/Scrittura file, Selection Sort, Merge Sort
+- Lettura/Scrittura file, Ricerca del minimo/massimo, Insertion Sort, Merge Sort
 
 ### Risorse
 **Codici**
 - [Lettura/Scrittura file]()
-- [Selection Sort]()
+- [Ricerca del minimo/massimo]()
+- [Insertion Sort]()
 - [Merge Sort]()
-- [Counting Sort]()

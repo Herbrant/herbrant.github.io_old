@@ -13,7 +13,7 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 
 ### Risorse
 **Codici**
-- [Lettura/Scrittura file]()
-- [Ricerca del minimo/massimo]()
-- [Insertion Sort]()
-- [Merge Sort]()
+- [Lettura/Scrittura file](/files/teaching/informatica2-tutorato/file.zip)
+- [Ricerca del minimo/massimo](/files/teaching/informatica2-tutorato/findminmax.zip)
+- [Insertion Sort](/files/teaching/informatica2-tutorato/insertion-sort.zip)
+- [Merge Sort](/files/teaching/informatica2-tutorato/merge-sort.zip)

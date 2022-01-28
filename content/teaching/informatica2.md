@@ -12,7 +12,7 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Lettura/Scrittura file, Ricerca del minimo/massimo, Insertion Sort, Merge Sort
 - Counting Sort, Sorting di coppie
 - Media, Mediana, Selection
-- Moltiplicazione tra matrici
+- Moltiplicazione tra matrici, Matrix Chain Order(soluzione ricorsiva e programmazione dinamica)
 
 ### Risorse
 **Codici**
@@ -24,3 +24,4 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - [Sorting di coppie](/files/teaching/informatica2-tutorato/coppie.zip)
 - [Selection](/files/teaching/informatica2-tutorato/selection.zip)
 - [Moltiplicazione tra matrici](/files/teaching/informatica2-tutorato/moltiplicazione_matrici.zip)
+- [Matrix Chain Order](/files/teaching/informatica2-tutorato/mco.zip)

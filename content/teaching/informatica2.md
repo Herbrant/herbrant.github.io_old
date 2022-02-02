@@ -12,7 +12,9 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Lettura/Scrittura file, Ricerca del minimo/massimo, Insertion Sort, Merge Sort
 - Counting Sort, Sorting di coppie
 - Media, Mediana, Selection
-- Moltiplicazione tra matrici, Matrix Chain Order(soluzione ricorsiva e programmazione dinamica)
+- Moltiplicazione tra matrici
+- Matrix Chain Order(soluzione ricorsiva e programmazione dinamica), Longest Common Subsequence
+- Grafi, BFS, DFS, Test di aciclicità
 
 ### Risorse
 **Codici**
@@ -25,3 +27,5 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - [Selection](/files/teaching/informatica2-tutorato/selection.zip)
 - [Moltiplicazione tra matrici](/files/teaching/informatica2-tutorato/moltiplicazione_matrici.zip)
 - [Matrix Chain Order](/files/teaching/informatica2-tutorato/mco.zip)
+- [Longest Common Subsequence](/files/teaching/informatica2-tutorato/lcs.zip)
+- [Algoritmi sui Grafi](/files/teaching/informatica2-tutorato/grafi.zip)

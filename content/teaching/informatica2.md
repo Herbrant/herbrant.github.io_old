@@ -13,7 +13,8 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Counting Sort, Sorting di coppie
 - Media, Mediana, Selection
 - Moltiplicazione tra matrici
-- Matrix Chain Order(soluzione ricorsiva e programmazione dinamica), Longest Common Subsequence
+- Matrix Chain Order (soluzione ricorsiva e programmazione dinamica)
+- Longest Common Subsequence(soluzione ricorsiva e programmazione dinamica)
 - Grafi, BFS, DFS, Test di aciclicità
 
 ### Risorse

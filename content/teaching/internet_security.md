@@ -1,7 +1,7 @@
 ---
 title: "Internet Security (tutorato)"
 school: "Dipartimento di Matematica e Informatica, Università degli Studi di Catania"
-image: "/img/informatica2.svg"
+image: "/img/internet-security.svg"
 weight: 11
 ---
 Questa è la pagina del tutorato di Internet Security del Corso di Laurea Triennale in Informatica (L-31) dell'Università degli Studi di Catania.

@@ -2,6 +2,7 @@
 title: "Sistemi Operativi (tutorato)"
 school: "Dipartimento di Matematica e Informatica, Università degli Studi di Catania"
 image: "/img/sistemi-operativi.svg"
+weight: 10
 ---
 Questa è la pagina del tutorato di Sistemi Operativi del Corso di Laurea Triennale in Informatica (L-31) dell'Università degli Studi di Catania.
 

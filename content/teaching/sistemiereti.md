@@ -31,7 +31,7 @@ La disciplina Sistemi e Reti vuole fornire gli strumenti necessari alla progetta
 - Installare e configurare software e dispositivi di rete
 - Utilizzare il lessico e la terminologia tecnica di settore anche in lingua inglese
 
-### Programma (provvisorio)
+### Programma
 - Struttura dell'elaboratore
 - Il microprocessore
 - Introduzione ai sistemi operativi
@@ -50,8 +50,6 @@ La disciplina Sistemi e Reti vuole fornire gli strumenti necessari alla progetta
 **Proiezioni**
 - [Introduzione](/files/teaching/sistemi_e_reti/01_Introduzione_Sistemi_e_Reti.pdf)
 - [Struttura dell'elaboratore](/files/teaching/sistemi_e_reti/02_Struttura_dell_Elaboratore_Sistemi_e_Reti.pdf)
-
-*Le slide verranno aggiornate durante le lezioni, il simbolo ⚠️ indica che le slide non sono da considerarsi complete*
 
 **Libro di testo**
 

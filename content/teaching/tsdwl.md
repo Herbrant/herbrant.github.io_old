@@ -10,6 +10,12 @@ Questa è la pagina del tutorato di Tecnologie per i Sistemi distribuiti e il We
 Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Dipartimento di Matematica e Informatica e, per ulteriori chiarimenti, contattare il docente del corso.
 
 ### Programma
-
+- Socket (C, Java)
+- Thread (C, Java)
+- Servlet
+- Introduzione a Spring Boot
+- PHP
+- Laravel
 ### Risorse
+(Repository GitHub)[https://github.com/Herbrant/Tutorato-TSDWL]
 

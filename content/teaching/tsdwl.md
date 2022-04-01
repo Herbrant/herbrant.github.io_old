@@ -17,5 +17,5 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - PHP
 - Laravel
 ### Risorse
-(Repository GitHub)[https://github.com/Herbrant/Tutorato-TSDWL]
+[Repository GitHub](https://github.com/Herbrant/Tutorato-TSDWL)
 

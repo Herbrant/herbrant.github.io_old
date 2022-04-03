@@ -19,3 +19,4 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Chiamate per la gestione della memoria condivisa tra i processi
 - Chiamate per la gestione dei semafori
 ### Risorse
+- [Tutorial Shell Linux](/files/teaching/sistemi-operativi/tutorial-shell-linux.pdf)

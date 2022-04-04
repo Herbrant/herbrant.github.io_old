@@ -20,3 +20,4 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Chiamate per la gestione dei semafori
 ### Risorse
 - [Tutorial Shell Linux](/files/teaching/sistemi-operativi/tutorial-shell-linux.pdf)
+- [Repository GitHub](https://github.com/Herbrant/Tutorato-Sistemi-Operativi)

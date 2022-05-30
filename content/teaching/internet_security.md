@@ -12,11 +12,12 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 ### Programma
 - Proprietà di sicurezza
 - Crittografia e Steganografia
-- Sintassi dei protocolli, protocollo Otway-Rees
 - Classificazione dei software nocivi
-- Firewall, iptables, nftables, UncomplicatedFirewall, FirewallD
-- Intrusion Detection System, Snort, Suricata
-- OAuth 2.0
+- Firewall, iptables
+- Intrusion Detection System, Suricata
+- MITMPROXY
+- OAuth 2.0, VouchProxy Project
 
 ### Risorse
+- [Slide](/files/teaching/internet-security/slides.pdf)
 - [Repository GitHub](https://github.com/Herbrant/Tutorato-Internet-Security-2022)

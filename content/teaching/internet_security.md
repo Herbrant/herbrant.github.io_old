@@ -15,7 +15,7 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 - Classificazione dei software nocivi
 - Firewall, iptables
 - Intrusion Detection System, Suricata
-- MITMPROXY
+- IP Security
 - OAuth 2.0, VouchProxy Project
 
 ### Risorse

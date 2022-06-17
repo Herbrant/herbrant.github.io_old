@@ -20,4 +20,3 @@ Per qualsiasi informazione sul corso riferirsi alla pagina ufficiale del Diparti
 
 ### Risorse
 - [Slide](/files/teaching/internet-security/slides.pdf)
-- [Repository GitHub](https://github.com/Herbrant/Tutorato-Internet-Security-2022)

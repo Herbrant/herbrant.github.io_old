@@ -1,9 +1,15 @@
 [
     {
+        "role": "Software Developer",
+        "company": "Aucta Cognitio",
+        "summary": "Sendata project, more info at sendata.io",
+        "range": "2022 - now"
+    },
+    {
         "role": "Teaching Assistant",
         "company": "Università degli Studi di Catania",
         "summary": "Sistemi Operativi, Internet Security, Tecnologie per i Sistemi Distribuiti e il Web con Laboratorio, Informatica 2",
-        "range": "2021 - now"
+        "range": "2021 - 2022"
     },
     {
         "role": "Systems and Networks Teacher",

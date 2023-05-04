@@ -1,5 +1,11 @@
 [
     {
+        "name":"Shor's Algorithm",
+		"company": "Quantum Computer Programming, Università degli Studi di Catania",
+        "description":"[Slides](/files/shor.pdf)",
+		"date": "2023"
+    },
+    {
         "name":"Arch Linux: una distribuzione semplice",
 		"company": "Saturday Morning Snippets 2021, Università degli Studi di Catania",
         "description":"[Slides](/files/arch-linux.pdf)",

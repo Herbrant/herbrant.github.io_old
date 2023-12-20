@@ -1,5 +1,17 @@
 [
     {
+        "role": "Research Fellow",
+        "company": "Università di Catania",
+        "summary": "",
+        "range": "2023 - now"
+    },
+    {
+        "role": "Teaching Assistant",
+        "company": "Università di Catania",
+        "summary": "Sistemi Operativi",
+        "range": "2023"
+    },
+    {
         "role": "Software Developer",
         "company": "Aucta Cognitio",
         "summary": "Sendata project, more info at sendata.io",
@@ -7,7 +19,7 @@
     },
     {
         "role": "Teaching Assistant",
-        "company": "Università degli Studi di Catania",
+        "company": "Università di Catania",
         "summary": "Sistemi Operativi, Internet Security, Tecnologie per i Sistemi Distribuiti e il Web con Laboratorio, Informatica 2",
         "range": "2021 - 2022"
     },
